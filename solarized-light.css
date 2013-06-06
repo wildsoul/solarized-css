@@ -294,3 +294,29 @@ h6 {
   border-radius: 0.2em;
   foreground-color: #859900;
 }
+.GRE_day {color: #8236d3;background-color: #fdf6e3;-webkit-border-radius: 0.2em;-moz-border-radius: 0.2em;}
+.Bug_fix {color: #006400;background-color: #fdf6e3;-webkit-border-radius: 0.2em;-moz-border-radius: 0.2em;}
+.BUG {color: #0000ff;background-color: #fdf6e3;-webkit-border-radius: 0.2em;-moz-border-radius: 0.2em;}
+.Task_Kill {color: #ff0000;background-color: #fdf6e3;-webkit-border-radius: 0.2em;-moz-border-radius: 0.2em;}
+.PAPER {color: #006400;background-color: #fdf6e3;-webkit-border-radius: 0.2em;-moz-border-radius: 0.2em;}
+.BOOK {color: #006400;background-color: #fdf6e3;-webkit-border-radius: 0.2em;-moz-border-radius: 0.2em;}
+.DECISION {color: #ff6103;background-color: #fdf6e3;-webkit-border-radius: 0.2em;-moz-border-radius: 0.2em;}
+.TOPIC {color: #cc0044;background-color: #fdf6e3;-webkit-border-radius: 0.2em;-moz-border-radius: 0.2em;}
+.OUTLINE {color: #5500ff;background-color: #fdf6e3;-webkit-border-radius: 0.2em;-moz-border-radius: 0.2em;}
+.SUMMARY {color: #ff00ff;background-color: #fdf6e3;-webkit-border-radius: 0.2em;-moz-border-radius: 0.2em;}
+.INFO {color: #000000;background-color: #fdf6e3;-webkit-border-radius: 0.2em;-moz-border-radius: 0.2em;}
+.IDEA_DONE {color: #00ff00;background-color: #fdf6e3;-webkit-border-radius: 0.2em;-moz-border-radius: 0.2em;}
+.IDEA_SUSPEND {color: #ff0000;background-color: #fdf6e3;-webkit-border-radius: 0.2em;-moz-border-radius: 0.2em;}
+.IDEA {color: #ffc0cb;background-color: #fdf6e3;-webkit-border-radius: 0.2em;-moz-border-radius: 0.2em;}
+.COMMENT {color: #00ff00;background-color: #fdf6e3;-webkit-border-radius: 0.2em;-moz-border-radius: 0.2em;}
+.ANSWER {color: #ffff00;background-color: #fdf6e3;-webkit-border-radius: 0.2em;-moz-border-radius: 0.2em;}
+.QUESTION_SUSPEND {color: #ff0000;background-color: #fdf6e3;-webkit-border-radius: 0.2em;-moz-border-radius: 0.2em;}
+.QUESTION_DONE {color: #20b2aa;background-color: #fdf6e3;-webkit-border-radius: 0.2em;-moz-border-radius: 0.2em;}
+.QUESTION {color: #90ee90;background-color: #fdf6e3;-webkit-border-radius: 0.2em;-moz-border-radius: 0.2em;}
+.NEXT {color: #00ff00;background-color: #fdf6e3;-webkit-border-radius: 0.2em;-moz-border-radius: 0.2em;}
+.SUSPEND {color: #ff0000;background-color: #fdf6e3;-webkit-border-radius: 0.2em;-moz-border-radius: 0.2em;}
+.TASK {color: #8236d3;background-color: #fdf6e3;-webkit-border-radius: 0.2em;-moz-border-radius: 0.2em;}
+.CANCELLED {color: #228b22;background-color: #fdf6e3;-webkit-border-radius: 0.2em;-moz-border-radius: 0.2em;}
+.DONE {color: #20b2aa;background-color: #fdf6e3;-webkit-border-radius: 0.2em;-moz-border-radius: 0.2em;}
+.MAYBE {color: #2e8b57;background-color: #fdf6e3;-webkit-border-radius: 0.2em;-moz-border-radius: 0.2em;}
+.TODO {color: #ff7f00;background-color: #fdf6e3;-webkit-border-radius: 0.2em;-moz-border-radius: 0.2em;}
